@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <a href="style.css"></a>
+    <title>Password Gen</title>
+ 
+    <script>
+            window.onload = function () {
+            var generateButton = document.querySelector('#generate');
+            generateButton.addEventListener('click', function () {
+                document.querySelector('#password').value = generate();
+            });
+        }
+    </script>
+</head>
+
+<body>
+    <div class="bodymargin">
+        <input id="password" type="text" placeholder="Your password...">
+        <br>
+        <button id="generate">Generate</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
