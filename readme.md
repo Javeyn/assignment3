@@ -1,9 +1,18 @@
 # Password Generator
 
+
+## Second push
+
+I decided to change up my code and write it out in a style that I felt more familiar with. The JavaScript feels really "wet" and in may cases I feel that a lot of the code could have been consolidated, I was just having a hard time remembering how.
+
+At this point, I believe I have everything all dialed in to create a password based on their criteria, but for some reason I can't get the password to generate on screen. I am going to go back through my code and figure out how to display their password.
+
+
 ## First push
 
 This is the first rendition of my password generator. Having missed
 class on Monday after the long break, it was difficult to remember exactly HOW I would go about doing this. I will be working into the night to try to get this finished, but I wanted to at least submit something until I can get a more polished version to you guys.
+
 
 ### Thoughts
 

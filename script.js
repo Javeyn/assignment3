@@ -13,5 +13,5 @@ function generate( length = 12 ){
         password += all.substring(character, character + 1);
     }
 
-    return password;
+    console.log(password);
 }
