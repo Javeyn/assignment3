@@ -1,4 +1,3 @@
-.bodymargin {
-    padding: 40%;
-    align-items: center;
+footer {
+    position: static;
 }
